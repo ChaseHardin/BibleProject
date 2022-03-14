@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleProject.Repository.Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleProject.Business.Tests", "BibleProject.Business.Tests\BibleProject.Business.Tests.csproj", "{6D00281A-9C9F-4047-94D5-EA09EC3BC62A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleProject.API.Tests", "BibleProject.API.Tests\BibleProject.API.Tests.csproj", "{19845435-D428-43F9-97AC-BC929389AB42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{6D00281A-9C9F-4047-94D5-EA09EC3BC62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D00281A-9C9F-4047-94D5-EA09EC3BC62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D00281A-9C9F-4047-94D5-EA09EC3BC62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19845435-D428-43F9-97AC-BC929389AB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19845435-D428-43F9-97AC-BC929389AB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19845435-D428-43F9-97AC-BC929389AB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19845435-D428-43F9-97AC-BC929389AB42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
