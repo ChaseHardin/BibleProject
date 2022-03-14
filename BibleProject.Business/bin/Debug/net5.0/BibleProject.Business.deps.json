@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BibleProject.Business/1.0.0": {
+        "dependencies": {
+          "BibleProject.Repository": "1.0.0"
+        },
+        "runtime": {
+          "BibleProject.Business.dll": {}
+        }
+      },
+      "BibleProject.Repository/1.0.0": {
+        "runtime": {
+          "BibleProject.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibleProject.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibleProject.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

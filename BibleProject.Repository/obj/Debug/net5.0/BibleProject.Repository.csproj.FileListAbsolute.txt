@@ -1,0 +1,12 @@
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/bin/Debug/net5.0/BibleProject.Repository.deps.json
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/bin/Debug/net5.0/BibleProject.Repository.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/bin/Debug/net5.0/ref/BibleProject.Repository.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/bin/Debug/net5.0/BibleProject.Repository.pdb
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/obj/Debug/net5.0/BibleProject.Repository.csproj.AssemblyReference.cache
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/obj/Debug/net5.0/BibleProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/obj/Debug/net5.0/BibleProject.Repository.AssemblyInfoInputs.cache
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/obj/Debug/net5.0/BibleProject.Repository.AssemblyInfo.cs
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/obj/Debug/net5.0/BibleProject.Repository.csproj.CoreCompileInputs.cache
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/obj/Debug/net5.0/BibleProject.Repository.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/obj/Debug/net5.0/ref/BibleProject.Repository.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Repository/obj/Debug/net5.0/BibleProject.Repository.pdb

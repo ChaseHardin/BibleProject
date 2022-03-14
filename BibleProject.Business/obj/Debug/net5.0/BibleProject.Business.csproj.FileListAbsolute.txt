@@ -1,0 +1,15 @@
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/BibleProject.Business.csproj.AssemblyReference.cache
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/BibleProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/BibleProject.Business.AssemblyInfoInputs.cache
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/BibleProject.Business.AssemblyInfo.cs
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/BibleProject.Business.csproj.CoreCompileInputs.cache
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/bin/Debug/net5.0/BibleProject.Business.deps.json
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/bin/Debug/net5.0/BibleProject.Business.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/bin/Debug/net5.0/ref/BibleProject.Business.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/bin/Debug/net5.0/BibleProject.Business.pdb
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/bin/Debug/net5.0/BibleProject.Repository.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/bin/Debug/net5.0/BibleProject.Repository.pdb
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/BibleProject.Business.csproj.CopyComplete
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/BibleProject.Business.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/ref/BibleProject.Business.dll
+/Users/chase.hardin/Desktop/BibleProject/BibleProject/BibleProject.Business/obj/Debug/net5.0/BibleProject.Business.pdb
